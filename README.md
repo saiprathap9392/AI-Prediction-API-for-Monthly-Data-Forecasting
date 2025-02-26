@@ -51,6 +51,7 @@ GET /daily_prediction: Get daily predictions.
 
 Project Structure
 
+
 ai-prediction-api/
 ├── app/
 │   ├── main.py           # FastAPI app
@@ -61,3 +62,4 @@ ai-prediction-api/
 ├── .env                  # Environment variables
 ├── requirements.txt      # Dependencies
 └── README.md             # Documentation
+
