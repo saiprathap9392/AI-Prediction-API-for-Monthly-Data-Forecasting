@@ -63,3 +63,6 @@ ai-prediction-api/
 ├── requirements.txt      # Dependencies
 └── README.md             # Documentation
 
+![image](https://github.com/user-attachments/assets/5a369fdc-fdc8-4cea-bbbd-d5c21531c865)
+
+
